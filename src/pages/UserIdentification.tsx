@@ -38,7 +38,6 @@ export function UserIdentification() {
   }
 
   function handleSubmit() {
-    console.log('xxxxxxx');
     navigation.navigate('Confirmation');
   }
 
